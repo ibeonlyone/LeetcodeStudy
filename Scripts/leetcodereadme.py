@@ -147,6 +147,7 @@ class TableInform:
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                            folder_url = folder_url.replace('\\', "/")
                             # print(folder_url)
                             self.table_item[folder[:3]].csharp = '[C#]({})'.format(folder_url)
                         elif item.endswith('.js'):
