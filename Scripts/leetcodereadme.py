@@ -38,7 +38,7 @@ class Question:
         self.python = ''
         self.java = ''
         self.javascript = ''
-        self.c_plus_plus = ''
+        self.csharp = ''
 
     def __repr__(self):
         """
@@ -148,7 +148,7 @@ class TableInform:
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             # print(folder_url)
-                            self.table_item[folder[:3]].c_plus_plus = '[C#]({})'.format(folder_url)
+                            self.table_item[folder[:3]].csharp = '[C#]({})'.format(folder_url)
                         elif item.endswith('.js'):
                             complete_info.solved['javascript'] += 1
                             folder_url = folder.replace(' ', "%20")
