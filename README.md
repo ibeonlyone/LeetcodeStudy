@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-07-24 17:03:10, I have solved **1** / **819** problems while **139** are still locked.
+Until 2018-07-24 17:08:32, I have solved **1** / **819** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -38,7 +38,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Arra\Solution.cs)|To Do|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Arra\Solution.cs)|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|To Do|

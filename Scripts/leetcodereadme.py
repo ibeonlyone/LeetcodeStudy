@@ -15,9 +15,8 @@ class Config:
     """
     local_path = 'c:/Users/xhu/Documents/GitHub/LeetcodeStudy'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/ibeonlyone/LeetcodeStudy/blob/master/leetcode-algorithms/'
-    # solution of pat,　暂时还没写
-    github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
+    github_leetcode_url = 'https://github.com/ibeonlyone/LeetcodeStudy/leetcode-algorithms/'
+
     leetcode_url = 'https://leetcode.com/problems/'
 
 
