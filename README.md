@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-07-25 17:42:26, I have solved **2** / **819** problems while **139** are still locked.
+Until 2018-07-25 17:56:58, I have solved **2** / **819** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -38,7 +38,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Arra/Solution.cs)|To Do|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.cs)|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -134,8 +134,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|To Do|To Do|To Do|To Do|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|To Do|
-|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Stock.cs)|To Do|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Stock.cs)|To Do|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|To Do|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
