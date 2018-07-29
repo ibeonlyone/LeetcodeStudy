@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-07-26 11:11:07, I have solved **3** / **819** problems while **139** are still locked.
+Until 2018-07-29 21:01:22, I have solved **4** / **827** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C#: 3
+3. C#: 4
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C# | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/001.%20Two%20Sum/Two Sum.cs)|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -832,3 +832,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|To Do|To Do|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|To Do|To Do|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|To Do|To Do|
+|879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |Hard|To Do|To Do|To Do|To Do|
+|880|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) |Medium|To Do|To Do|To Do|To Do|
+|881|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
+|882|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|To Do|To Do|
+|883|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|To Do|To Do|
