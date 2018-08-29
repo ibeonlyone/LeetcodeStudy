@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-08-27 16:16:08, I have solved **8** / **843** problems while **139** are still locked.
+Until 2018-08-29 17:38:47, I have solved **10** / **843** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C#: 8
+3. C#: 10
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -32,14 +32,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/020.%20Valid%20Parentheses/ValidParentheses.cs)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.cs)|To Do|
-|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/027.%20Remove%20Element/RemoveElement.cs)|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|To Do|
