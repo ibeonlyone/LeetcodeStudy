@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-08-30 15:45:47, I have solved **11** / **843** problems while **139** are still locked.
+Until 2018-09-10 17:35:40, I have solved **12** / **851** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C#: 11
+3. C#: 12
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -33,7 +33,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/020.%20Valid%20Parentheses/ValidParentheses.cs)|To Do|
-|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/MergeTwoSortedLists.cs)|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -599,7 +599,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|To Do|To Do|To Do|To Do|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|To Do|To Do|To Do|To Do|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -856,3 +856,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|To Do|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|To Do|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
+|899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) |Hard|To Do|To Do|To Do|To Do|
+|900|[RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) |Medium|To Do|To Do|To Do|To Do|
+|902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|To Do|To Do|To Do|To Do|
+|903|[Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
