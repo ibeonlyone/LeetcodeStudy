@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-09-10 17:35:40, I have solved **12** / **851** problems while **139** are still locked.
+Until 2018-09-12 10:25:55, I have solved **13** / **851** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C#: 12
+3. C#: 13
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -50,7 +50,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
-|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/038.%20Count%20and%20Say/CountAndSay.cs)|To Do|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
