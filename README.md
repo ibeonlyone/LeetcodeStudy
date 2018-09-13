@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-09-12 11:12:09, I have solved **14** / **851** problems while **139** are still locked.
+Until 2018-09-13 17:39:47, I have solved **17** / **851** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C#: 14
+3. C#: 17
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -65,12 +65,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/053.%20Maximum%20Subarray/MaximumSubarray.cs)|To Do|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
-|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|To Do|To Do|
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/LengthOfLastWord.cs)|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -78,7 +78,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
-|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|To Do|
+|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/066.%20Plus%20One/PlusOne.cs)|To Do|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|To Do|To Do|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|
