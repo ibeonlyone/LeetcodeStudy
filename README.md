@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-10-31 15:34:24, I have solved **23** / **879** problems while **139** are still locked.
+Until 2018-11-29 16:15:55, I have solved **23** / **895** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 4
+2. Python: 6
 3. C#: 23
 4. Java: 0
 
@@ -26,13 +26,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/013.%20Roman%20to%20Integer/RomanToInteger.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/013.%20Roman%20to%20Integer/RomanToInteger.cs)|To Do|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/LongestCommonPrefix.cs)|To Do|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/LongestCommonPrefix.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/LongestCommonPrefix.cs)|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/020.%20Valid%20Parentheses/ValidParentheses.cs)|To Do|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/020.%20Valid%20Parentheses/ValidParentheses.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/020.%20Valid%20Parentheses/ValidParentheses.cs)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/MergeTwoSortedLists.cs)|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -892,3 +892,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) |Easy|To Do|To Do|To Do|To Do|
+|934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|To Do|To Do|
+|935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|To Do|
+|936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|To Do|To Do|To Do|To Do|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|To Do|To Do|To Do|To Do|
+|939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|To Do|
+|940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/description/) |Easy|To Do|To Do|To Do|To Do|
+|943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) |Hard|To Do|To Do|To Do|To Do|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
+|945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) |Medium|To Do|To Do|To Do|To Do|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
+|947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|To Do|To Do|To Do|To Do|
+|948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|To Do|To Do|To Do|To Do|
