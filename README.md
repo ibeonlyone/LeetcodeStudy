@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-14 13:27:35, I have solved **23** / **903** problems while **139** are still locked.
+Until 2018-12-14 14:09:20, I have solved **23** / **903** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 10
+2. Python: 11
 3. C#: 23
 4. Java: 0
 
@@ -47,7 +47,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/035.%20Search%20Insert%20Position/SearchInsertPosition.cs)|To Do|
+|035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/035.%20Search%20Insert%20Position/SearchInsertPosition.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/035.%20Search%20Insert%20Position/SearchInsertPosition.cs)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/038.%20Count%20and%20Say/CountAndSay.cs)|To Do|
