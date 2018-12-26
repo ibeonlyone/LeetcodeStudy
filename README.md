@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-26 15:35:25, I have solved **23** / **911** problems while **139** are still locked.
+Until 2018-12-26 16:07:47, I have solved **23** / **911** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 13
+2. Python: 14
 3. C#: 23
 4. Java: 0
 
@@ -70,7 +70,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
-|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/LengthOfLastWord.cs)|To Do|
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/LengOfLastWord.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/LengthOfLastWord.cs)|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
