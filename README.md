@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-03-06 20:01:18, I have solved **23** / **953** problems while **140** are still locked.
+Until 2019-03-06 20:20:49, I have solved **23** / **953** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 18
+2. Python: 19
 3. C#: 23
 4. Java: 0
 
@@ -112,7 +112,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/100.%20Same%20Tree/SameTree.cs)|To Do|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/100.%20Same%20Tree/SameTree.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/100.%20Same%20Tree/SameTree.cs)|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/101.%20Symmetric%20Tree/SymmetricTree.cs)|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
