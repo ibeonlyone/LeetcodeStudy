@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-03-06 19:44:23, I have solved **23** / **953** problems while **140** are still locked.
+Until 2019-03-06 20:01:18, I have solved **23** / **953** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 17
+2. Python: 18
 3. C#: 23
 4. Java: 0
 
@@ -100,7 +100,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|
-|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/Merge.cs)|To Do|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|[Python](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/Merge.py)|[C#](https://github.com/ibeonlyone/LeetcodeStudy/tree/master/leetcode-algorithms/088.%20Merge%20Sorted%20Array/Merge.cs)|To Do|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
